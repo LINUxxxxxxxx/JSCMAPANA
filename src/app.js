@@ -1,6 +1,6 @@
 console.log("Merhaba Kodlama.io")
-//10:20 değilll
 
+//JS type safe değildir
 let dolarBugun = 9.30
 
 let dolarDun = 9.20
